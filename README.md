@@ -1,6 +1,6 @@
 Autor: Wilgner Lopes
 
-# Demonstração de acionamento de motores utilizando classes em C++ no Keil Studio
+# utorial de configuração do acesso serial ST-link no MacOS
 
 ## Objetivo
 
