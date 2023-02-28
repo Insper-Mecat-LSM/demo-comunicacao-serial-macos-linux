@@ -1,6 +1,6 @@
 Autor: Wilgner Lopes
 
-# utorial de configuração do acesso serial ST-link no MacOS
+# Tutorial de configuração do acesso serial ST-link no MacOS
 
 ## Objetivo
 
