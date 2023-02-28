@@ -16,7 +16,7 @@ Autor: Wilgner Lopes
 
 ### Pratica 1 - Comunicação serial sem instalaçao de nenhum software
 
-- Nesta primeira pratica, iremos configurar a comunicação na porta serial utilizando apenas os drives nativos do nosso sistema operacional, para isso utilizaremos o tutorial encontrado no site da [ARM/MBED](https://os.mbed.com/handbook/Mac-or-Linux-terminals):
+- Nesta primeira pratica, iremos configurar a comunicação na porta serial utilizando apenas os drives nativos do nosso sistema operacional, para isso utilizaremos o tutorial encontrado no site da [ARM/MBED](https://os.mbed.com/handbook/Mac-or-Linux-terminals) e tambem encontrado no [Guia de desenvolvedor da ARM para Keil Studio](https://developer.arm.com/documentation/102497/1-5/Monitor-and-debug/Use-the-Serial-Monitor-view/Use-an-external-serial-terminal-with-STMicroelectronics-devices):
 
   1. O tutorial consiste em duas etapas. Primeiro identificar a presença da nossa placa nucleo na lista de dispositivos encontrado:
 
